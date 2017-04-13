@@ -11,7 +11,7 @@ var React = require('react');
 var About = (props) => {
   return(
     <div>
-    <h3>About Component</h3>
+    <h3>About</h3>
     <p>This single page React Application will tell you the tempature in your area</p>
     </div>
   );
